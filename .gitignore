@@ -53,3 +53,11 @@ dkms.conf
 
 .vscode/
 build/
+*pdf
+*csv
+*_utf8*
+Homework_03/Makefile
+
+Homework_02/
+Homework_03/
+Homework_04/
